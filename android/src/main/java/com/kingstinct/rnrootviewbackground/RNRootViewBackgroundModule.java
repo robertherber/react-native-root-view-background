@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.kingstinct.rnrootviewbackground;
 
 import android.app.Activity;
 import android.view.View;
